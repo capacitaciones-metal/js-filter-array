@@ -1,0 +1,32 @@
+[
+  {
+    "title": "The Code of the Extraordinary Mind",
+    "author": "Vishen Lakhiani",
+    "img": "https://firebasestorage.googleapis.com/v0/b/fullstack-extraordinary.appspot.com/o/the-code-of-the-extraordinary-mind-3.png?alt=media&token=bea127a9-61c4-4bcc-bbfa-8e49618d4525",
+    "fav": false
+  },
+  {
+    "title": "Outliers",
+    "author": "Malcolm Gladwell",
+    "img": "https://firebasestorage.googleapis.com/v0/b/fullstack-extraordinary.appspot.com/o/Outliers.png?alt=media&token=b11a1dbe-2853-4cff-8d2a-6cd9d19383ad",
+    "fav": false
+  },
+  {
+    "title": "Blink",
+    "author": "Malcolm Gladwell",
+    "img": "https://firebasestorage.googleapis.com/v0/b/fullstack-extraordinary.appspot.com/o/blink.png?alt=media&token=2aa76410-276b-4319-a282-e16f70980506",
+    "fav": false
+  },
+  {
+    "title": "Limitless",
+    "author": "Jim Kwik",
+    "img": "https://firebasestorage.googleapis.com/v0/b/fullstack-extraordinary.appspot.com/o/Limitless.png?alt=media&token=87159665-3886-477a-848c-287121b332b3",
+    "fav": false
+  },
+  {
+    "title": "Flow",
+    "author": "Mihály Csikszentmihályi",
+    "img": "https://firebasestorage.googleapis.com/v0/b/fullstack-extraordinary.appspot.com/o/flow.png?alt=media&token=3ffc1d6a-647f-4bf3-97d2-e0f94b434a50",
+    "fav": false
+  }
+]
